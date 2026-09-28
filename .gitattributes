@@ -1,6 +1,2 @@
-# Exclude HTML from language statistics
-*.html linguist-documentation=true
-
-# Explicitly ensure JS and CSS are tracked as programming languages
-*.js linguist-language=JavaScript
-*.css linguist-language=CSS
+js/* linguist-detectable=true
+css/* linguist-detectable=true
