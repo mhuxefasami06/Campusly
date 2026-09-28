@@ -1,7 +1,0 @@
-# Force Linguist to detect CSS and JS files
-*.css linguist-detectable=true
-*.js linguist-detectable=true
-
-# (Optional) If your HTML files are static/generated content dominating the stats, 
-# you can mark HTML as documentation so it doesn't skew the stats:
-# *.html linguist-documentation=true
